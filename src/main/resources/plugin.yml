@@ -1,0 +1,6 @@
+name: AlphaBoxes
+version: ${project.version}
+main: de.alphahelix.alphaboxes.AlphaBoxes
+depend: [AlphaLibary]
+authors: [AlphaHelix]
+description: A new form of crates!
